@@ -1,2 +1,3 @@
 # CoderJava
-curso coder java Digital House
+
+Repositorio para a entrega de atividades realizados no curso CoderJava
